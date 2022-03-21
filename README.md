@@ -1,2 +1,2 @@
 # Java_Rush_Tasks
-# My Java Core training. Practical tasks.
+# My Java Syntax, Core, Multythreading, Collections, IO, Exceptions
